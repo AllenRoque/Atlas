@@ -1,0 +1,37 @@
+.header {
+  height: 10vh;
+  background-color: #bf0909;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.header_logo {
+  height: 50px;
+}
+
+.header_title {
+  color: #eeeeee;
+  font-size: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+  height: 90vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav {
+  width: 10vw;
+  background-color: #eeeeee;
+}
+
+.map {
+  width: 45vw;
+}
+
+.contenido {
+  background-color: #ffffff;
+  width: 45vw;
+}
